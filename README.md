@@ -145,11 +145,12 @@ urlpatterns = [
 
 ```
 ## OUTPUT:
+![Serverside processing output ](https://github.com/karthiksec/serversideprocessing/assets/147473368/7e6421e3-6edd-4925-ba93-b551510f764f)
 
 ### Home Page:
+![Serverside processing Home ](https://github.com/karthiksec/serversideprocessing/assets/147473368/f5a734b9-b8f2-4610-b53c-00a81bbd5c6a)
 
 
 ## Result:
-
-
 The given program was executed successfully
+
